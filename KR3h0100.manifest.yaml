@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR3h0100/v1
+canonical_location: https://kanripo.org/bkk/KR3h0100/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 棋手勢一卷
+  identifiers:
+    krp: KR3h0100
+  tags:
+    kr-categories: KR3h
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR3h0100.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3h0100_001.yaml, hash: 'sha256:664363cca5dc4c24f581f4a7e467bc8bf29271a0ba89df01e12120a1220a4941'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3h0100_001.markers.yaml, hash: 'sha256:fa3c5eb242c7b57dcf1dece8f15af8eeb070f9d5fbdbeb51695eca7b13b01edf'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3h0100_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 272
+  label: 棋手勢一卷
+  type: section
+  level: 1
+hash: sha256:24daa5e3fd5d73f51e333a0a5d4c9808f7cebecd125a681dfc535341f9ee54a5
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

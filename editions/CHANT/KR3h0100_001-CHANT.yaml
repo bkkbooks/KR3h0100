@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3h0100/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 棋手勢一卷唐宣宗時大中中日本國王子來朝獻寶器音樂上設百戲珍饌以禮焉王子善圍棋上敕顧師言待詔為對手王子出如楸玉局冷煖玉棋子云本國之東三萬里有集真島島上有凝霞臺上有手談池池中生玉棋子不由制度自然黑白分明冬溫夏冷故謂冷煖玉又產如楸玉類楸木琢之為局光潔可鑒及師言與之敵手至三十三下勝負未決師言懼辱君命而汗下凝思方敢落指謂之鎮神頭乃是解兩征勢也王子瞪目縮臂以伏不勝廻語鴻臚曰待詔第幾手耶鴻臚跪對曰第三師言實逸國手矣王子曰願見第一曰王子勝第三得見第二勝第二得見第一今欲躁見第一其可得乎王子掩局而吁曰小國之一不如大國之三信矣今好事者尚有顧師言三十三下鎮神頭圖
+  hash: sha256:bd011c5ae88db708d7006097dcc6eea4baaa09ce49752e99efc9d62672994f28
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3h0100_CHANT_001-1a.1-h}
+metadata:
+  title: 棋手勢一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3h0100.xml
+hash: sha256:5ecfd22813b21b75f4cee394867a111ad84111edfa509d0da64d72087aede9fb
